@@ -1,0 +1,9 @@
+.product-nav {
+  margin: 40px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}

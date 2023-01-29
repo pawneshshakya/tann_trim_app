@@ -1,0 +1,37 @@
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+.title {
+  font-family: "Comme", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.55em;
+  padding-left: 18px;
+}
+li {
+  display: flex;
+  padding: 1rem;
+}
+.icons {
+  display: flex;
+}
+.list-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-nav {
+  margin-bottom: 2rem;
+}
