@@ -31,7 +31,6 @@ const ProductCard = ({ data }) => {
           image={data.image[0]}
           alt={data.name}
         />
-        );
         <CardContent className="product-details">
           <Typography className="product-name" component={"div"}>
             {data.name}

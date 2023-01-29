@@ -3,8 +3,8 @@
 }
 .product-card {
   width: 280.15px;
-  background-color: #141414;
-  border-radius: 6.59176px 6.59176px 17.0823px 17.0823px;
+  background-color: #141414 !important;
+  border-radius: 6.59176px 6.59176px 17.0823px 17.0823px !important;
 }
 .product-name {
   font-style: normal;
